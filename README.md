@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **langaliyaharsh2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Dq6HOxPNf-5O5Qwqsb9A3VYb61Gl9BIH/view?usp=drive_link](https://drive.google.com/file/d/1Dq6HOxPNf-5O5Qwqsb9A3VYb61Gl9BIH/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jAEsyFS-qF9EZYwhk9DhTVmxJqBTnIby/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -14,8 +14,6 @@
 
 - 🌱 I’m currently learning **AI/ML, Spring Boot, React.**
 
-- 👯 I’m looking to collaborate on **FLutter Projects.**
-
 - 💬 Ask me about **Flutter.**
 
 - 📫 How to reach me **langaliyaharsh2003@gmail.com**

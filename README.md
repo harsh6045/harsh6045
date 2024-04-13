@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Langaliya</h1>
-<h3 align="center">A passionate Full Stack developer from India.</h3>
+<h3 align="center">A passionate Full Stack Developer from India.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harsh6045&label=Profile%20views&color=0e75b6&style=flat" alt="harsh6045" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Full Stack and AI/ML Projects.**
 
-- 🌱 I’m currently learning **AI/ML, Spring Boot, React.**
+- 🌱 I’m currently learning **AI/ML, Spring Boot, React.js.**
 
 - 💬 Ask me about **Flutter.**
 

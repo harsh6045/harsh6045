@@ -1,5 +1,33 @@
-<h1 align="center">Hi 👋, I'm Harsh Langaliya</h1>
-<h3 align="center">A passionate Full Stack Developer from India.</h3>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Harsh Langaliya - Full Stack Developer</title>
+    <style>
+        /* Add any additional styling you need */
+    </style>
+</head><h3 align="center">A passionate Full Stack Developer from India.</h3>
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    typeEffect(document.getElementById('typing-name'), "Hi 👋, I'm Harsh Langaliya", 100, () => {
+        typeEffect(document.getElementById('typing-title'), "A passionate Full Stack Developer from India.", 100);
+    });
+});
+
+function typeEffect(element, text, speed, callback) {
+    let i = 0;
+    function type() {
+        if (i < text.length) {
+            element.innerHTML += text.charAt(i);
+            i++;
+            setTimeout(type, speed);
+        } else if (callback) {
+            callback();
+        }
+    }
+    type();
+}
+</script>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harsh6045&label=Profile%20views&color=0e75b6&style=flat" alt="harsh6045" /> </p>
 

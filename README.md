@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **langaliyaharsh2003@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jAEsyFS-qF9EZYwhk9DhTVmxJqBTnIby/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1CMmzU_PJz68i5t61qmSjiC8bmcByE-Na/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
